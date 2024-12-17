@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kirchnera2707/Documents/Unreal Projects/Project2Complete/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/kirchnera2707/Documents/Unreal Projects/Project2Complete/Content/FirstPerson/Maps/Project2.umap",
+				"C:/Users/kirchnera2707/Documents/Unreal Projects/Project2Revised/Content/foliage.uasset",
+				"C:/Users/kirchnera2707/Documents/Unreal Projects/Project2Revised/Content/Water.uasset",
+				"C:/Users/kirchnera2707/Documents/Unreal Projects/Project2Revised/Content/FirstPerson/Maps/Project2.umap"
+			]
+		}
+	]
+}
